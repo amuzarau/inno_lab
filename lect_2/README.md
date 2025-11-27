@@ -1,25 +1,4 @@
 
-GitHub will automatically render the diagram visually.
-
-⚠️ Important:  
-Make sure the code block uses **```mermaid** (not ```js or ```text).
-
----
-
-# 🎉 UPDATED PROFESSIONAL README.md (with Mermaid + Menu Options)
-
-Below is your **fully updated README** including:
-
-- Clean structure  
-- Mermaid diagram integrated  
-- Menu options explained  
-- Summary of program behavior  
-- Project goals  
-
-You can **copy/paste directly into your README.md file**.
-
----
-
 # 📘 **README.md — Student Grade Analyzer**
 
 ```markdown
